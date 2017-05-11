@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Todo sobre videojuegos</title>
+
+</head>
+<body background="xbox.jpg">
+
+                   <!--h1 se utiliza para titulares-->
+                 <h1>VideoJuegos</h1>
+<cite>Si quieres comprar, aprender, quedate aqui.</cite>  
+<Tr>
+<DIV ALIGN=centre>
+<Td><img alt="Imagen" src="videojuegos.jpg"  width="500" height="250" /></Td>
+</Tr>
+</div>
+
+<FONT FACE="Arial" SIZE=8>
+<font color="white">
+Los videojuegos son muchos los que existen, por eso no hay un truco especifico para todos, pero si le dedicas tiempo 
+terminarias ententiendo la mecanica y los trucos para mejorar tu jugabilidad. Hay diversos sitios de compra online para 
+videojuegos, una de esas es Steam. Y existen distintos foros para conocer los trucos y consejos de otros jugadores, uno de
+los foros mas conocidos es ComuGamers, el cual es alimentado por los gamers.
+
+
+</tr>
+</td>
+</font>
+<A HREF="http://store.steampowered.com/m" TARGET="_BLANK"><p>Compra VideoJuegos</p>
+<A HREF="https://www.comugamers.com/" TARGET="_BLANK"><p>Foro de VideoJuegos</p>
+
+</body>
+
+
+</html>
